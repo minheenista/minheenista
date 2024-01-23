@@ -1,7 +1,7 @@
 ### <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&random=false&width=617&lines=%3CHello%2C+I'm+Michi+class%3D%22Web-Developer%22%2F+%3E)](https://git.io/typing-svg)</div>  
   
 
-<table ><tr><td valign="top" width="50%" style="border: none;">
+<table ><tr><td valign="top" width="50%" style="border: none;" >
 
 ```
 const me = {
@@ -17,20 +17,24 @@ const me = {
     "Skitty", "Maractus", "Eevee"
   ],
 }
-```  
+```
+<div align="center">
+      <img src="https://spotify-github-profile.vercel.app/api/view?uid=22taiblblh2743e2e6xv7bhay&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Listening to on Spotify">
+
+</div>
 
 
 </td><td valign="top" width="50%" style="border: none;">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minheenista&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=minheenista&theme=vue)
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minheenista&hide_border=true&layout=compact" align="center" /></div>  
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=minheenista&theme=vue)
 
 </td></tr>
-<tr>
+<!-- <tr>
     <td colspan="2" align="center">
       <img src="https://spotify-github-profile.vercel.app/api/view?uid=22taiblblh2743e2e6xv7bhay&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Listening to on Spotify">
-  </tr>
+  </tr> -->
 
 </table>  
 
