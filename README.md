@@ -19,8 +19,7 @@ const me = {
 }
 ```
 <div align="center">
-      <img src="https://spotify-github-profile.vercel.app/api/view?uid=22taiblblh2743e2e6xv7bhay&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Listening to on Spotify">
-
+     [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22taiblblh2743e2e6xv7bhay&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 </div>
 
 
@@ -31,10 +30,7 @@ const me = {
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=minheenista&theme=vue)
 
 </td></tr>
-<!-- <tr>
-    <td colspan="2" align="center">
-      <img src="https://spotify-github-profile.vercel.app/api/view?uid=22taiblblh2743e2e6xv7bhay&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Listening to on Spotify">
-  </tr> -->
+
 
 </table>  
 
