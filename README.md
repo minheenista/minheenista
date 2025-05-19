@@ -18,10 +18,11 @@ const me = {
   ],
 }
 ```
-<div align="center">
-     [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22taiblblh2743e2e6xv7bhay&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-</div>
-
+<p align="center">
+  <a href="https://open.spotify.com/user/22taiblblh2743e2e6xv7bhay" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=22taiblblh2743e2e6xv7bhay&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
+</p>
 
 </td><td valign="top" width="50%" style="border: none;">
 
